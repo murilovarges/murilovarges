@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-#### I'm a Resercher, Professor, Developer and IT Enthusiastic, living on Araçatuba, São Paulo, Brazil.
+#### I'm a Researcher, Professor, Developer and IT Enthusiastic, living in Araçatuba, São Paulo, Brazil.
 
 ##### BIO
 
-- 🏢 I'm currently working at **IFSP Campus Birigui** 
+- :man_student: PhD (UFSCar) and Master (Unesp) in Computer Science.
+- 🏢 I'm currently working at **IFSP Campus Birigui**. 
 - :man_teacher: I’m currently teaching undergraduate in computer engineering: Data mining, Algorithm analysis and Formal languages and automata.
 - 🔭 I’m currently interested in the following research areas: Image processing, Computer vision and Machine learning.
 - ⚙️ I use daily: `Python`, `C#`, `js`, `html`, `css`.
