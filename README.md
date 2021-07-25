@@ -6,7 +6,7 @@
 
 - :man_student: PhD (UFSCar) and Master (Unesp) in Computer Science.
 - 🏢 I'm currently working at **IFSP Campus Birigui**. 
-- :man_teacher: I’m currently teaching undergraduate in computer engineering: Data mining, Algorithm analysis and Formal languages and automata.
+- :man_teacher: I’m currently teaching undergraduate in computer engineering: Data mining, Algorithm analysis, Formal languages and automata, Artificial Intelligence, and Digital image processing.
 - 🔭 I’m currently interested in the following research areas: Image processing, Computer vision and Machine learning.
 - ⚙️ I use daily: `Python`, `C#`, `js`, `html`, `css`.
 - ⚡️ Fun fact: I'm a tennis player that I try to improve every day.
