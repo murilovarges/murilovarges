@@ -9,7 +9,7 @@
 - :man_teacher: I’m currently teaching undergraduate in computer engineering: Data mining, Algorithm analysis, Formal languages and automata, Artificial Intelligence, and Digital image processing.
 - 🔭 I’m currently interested in the following research areas: Image processing, Computer vision and Machine learning.
 - ⚙️ I use daily: `Python`, `C#`, `js`, `html`, `css`.
-- ⚡️ Fun fact: I'm a tennis player that I try to improve every day.
+- ⚡️ Fun fact: I'm a tennis player that tries to improve every day.
 
 
 <!--
